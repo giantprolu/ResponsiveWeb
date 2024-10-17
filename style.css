@@ -52,7 +52,6 @@ body {
 }
 
 .card__avatar {
-    position:relative;
     width: 200px; 
     height: 200px;
     background: var(--bg-color);
@@ -106,12 +105,12 @@ body {
         transform: translateY(-10px);
         box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     }
-/* 
+
     .card__avatar {
         width: 70px;
         height: 70px;
         top: 40%;
-    } */
+    }
 
     .card__title {
         font-size: 1em;
@@ -139,12 +138,12 @@ body {
         box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     }
 
-    /* .card__avatar {
+    .card__avatar {
         width: 70px;
         height: 70px;
         top: 40%;
 
-    } */
+    }
 
     .card__title {
         font-size: 1em;
@@ -165,11 +164,11 @@ body {
         padding-top: 20px;
     }
 
-    /* .card__avatar {
+    .card__avatar {
         width: 60px;
         height: 60px;
         top: 45%;
-    } */
+    }
 
     .card__title {
         font-size: 1em;
